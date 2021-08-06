@@ -1,0 +1,7 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://windows-11-download-free.herokuapp.com/host-https-ccm.net/sitemap/download/
+Sitemap: https://windows-11-download-free.herokuapp.com/sitemap/sitemap.xml
+Sitemap: https://windows-11-download-free.herokuapp.com/host-https-itechhacks.com/sitemap_index.xml
+Sitemap: https://windows-11-download-free.herokuapp.com/host-https-www.mpnrc.org/post-sitemap.xml
